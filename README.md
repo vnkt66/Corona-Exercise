@@ -14,7 +14,7 @@ Create a Connection with connection name, username as student and password as st
 
 Now the sql user student is ready to accept connections, now open sql file from the downloaded repository and execute it in the student connection.
 
-Open Eclipse IDE and click on file and open this downloaded project repository using the path to the folder and execute Corona.java file from src/com/data/corona.
+Open Eclipse IDE and click on file and open this downloaded project repository using the path to the folder and execute Corona.java file from src folder.
 
 data.sql - Created coronadata table in corona database.
 
