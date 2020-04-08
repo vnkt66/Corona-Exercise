@@ -2,6 +2,10 @@
 
 - This repository consists of data SQL file which creates corona database and Corona.java file in the src folder which connects to database and prints the corona affected people count state wise.
 
+### Prerequisites
+
+- Need to have Eclipse IDE, MySQL Workbench installed on your system.
+
 ### Getting Started
 
 - Download the repository into your system.
@@ -27,3 +31,7 @@
 ### Side Note
 
 - If you have changed the username and password in Corona.java file don't forgot to create a new account with the same credentials in users and privileges.
+
+### Authors
+
+- Venkanna Chowdary Penubothu - [Corona-Exercise](https://github.com/vnkt66/Corona-Exercise)
