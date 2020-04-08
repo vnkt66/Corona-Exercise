@@ -18,7 +18,7 @@
 
 - Now the sql user student is ready to accept connections, now open sql file from the downloaded repository and execute it in the student connection.
 
-- Open Eclipse IDE and click on file and open this downloaded project repository using the path to the folder and execute Corona.java file from src folder.
+- Open Eclipse IDE and click on file and open this downloaded project repository using the path to the folder and click on the root project folder properties in the java build path jar add mysql connector jar and execute Corona.java file from src folder.
 
 - data.sql - Created coronadata table in corona database.
 
