@@ -1,6 +1,6 @@
 ### Corona Exercise
 
-- This repository consists of data SQL file which creates corona database and Corona.java file in the src/com/data folder which connects to database and prints the corona affected people count state wise.
+- This repository consists of data SQL file which creates corona database and java files in the src/com/data/corona folder which has java code to perform calculations from the data we got from the database.
 
 ### Prerequisites
 
